@@ -12,6 +12,12 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World");
             Console.ReadLine();
+
+            Console.WriteLine("   /");
+            Console.WriteLine("  /");
+            Console.WriteLine(" /");
+            Console.WriteLine("/");
+            Console.ReadLine();
         }
     }
 }
