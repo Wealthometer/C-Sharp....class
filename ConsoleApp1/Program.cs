@@ -18,6 +18,13 @@ namespace ConsoleApp1
             Console.WriteLine(" /  |");
             Console.WriteLine("/___|");
             Console.ReadLine();
+
+            // Variables
+            Console.WriteLine("There was once a man named George");
+            Console.WriteLine("He was 70 years old");
+            Console.WriteLine("He really liked the name George");
+            Console.WriteLine("But didn't like being 70");
+            Console.ReadLine();
         }
     }
 }
