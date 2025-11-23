@@ -11,20 +11,20 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            //Console.ReadLine();
+            Console.ReadLine();
 
-            //Console.WriteLine("   /|");
-            //Console.WriteLine("  / |");
-            //Console.WriteLine(" /  |");
-            //Console.WriteLine("/___|");
-            //Console.ReadLine();
+            Console.WriteLine("   /|");
+            Console.WriteLine("  / |");
+            Console.WriteLine(" /  |");
+            Console.WriteLine("/___|");
+            Console.ReadLine();
 
             // Variables
             Console.WriteLine("There was once a man named George");
             Console.WriteLine("He was 70 years old");
             Console.WriteLine("He really liked the name George");
             Console.WriteLine("But didn't like being 70");
-            //Console.ReadLine();
+            Console.ReadLine();
 
             string characterName = "John";
             int characterAge;
@@ -32,8 +32,6 @@ namespace ConsoleApp1
 
             Console.WriteLine("There was once a man named " + characterName);
             Console.WriteLine("He was " + characterAge + " years old");
-            Console.WriteLine("He really liked the name " + characterName);
-            Console.WriteLine("But didn't like being " + characterAge);
             Console.ReadLine();
         }
     }
